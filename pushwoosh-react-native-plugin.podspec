@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.author       = 'Pushwoosh'
   s.license      = 'MIT'
   s.homepage     = 'n/a'
-  s.source       = { :git => "https://github.com/Pushwoosh/pushwoosh-react-native-plugin.git" }
+  s.source       = { :git => "https://github.com/sorokin0andrey/pushwoosh-react-native-plugin.git" }
   s.source_files = "src/ios/**/*.{h,m}"
   s.platform     = :ios, "7.0"
   s.xcconfig = {
